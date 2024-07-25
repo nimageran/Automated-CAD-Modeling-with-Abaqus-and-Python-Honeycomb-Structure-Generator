@@ -1,0 +1,1 @@
+# Automated-CAD-Modeling-with-Abaqus-and-Python-Honeycomb-Structure-Generator
